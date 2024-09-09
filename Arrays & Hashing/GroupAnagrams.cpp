@@ -5,10 +5,10 @@
 // Approach 1 - HashMap and sorting - TC = O(nKLogK) - SC = O(N)
 vector<vector<string>> groupAnagrams(vector<string>& strs) {
   unordered_map<string, vector<string>> map;
-  n = strs.size();
+  int n = strs.size();
   string temp;
 
-  for(i=0 --> n){
+  for(int i=0; i<n; i++){
     temp = strs[i];
     // sort the string.
     sort(strs[i].begin(), strs[i].end());
