@@ -8,7 +8,7 @@ Neetcode is a very flawless resource curating amazing questions from leetcode wi
 - Solutions available  in C++, Java, Python, JavaScript languages.
 - Neetcode consists of Leetcode's Blind 75 problem set with additional 75 questions curated from their end making it a problem set of 150 questions, consolidating them all in a structured order of solving.
 - They have a total of 500+ leetcode questions consolidated on their platform, including the 150 questions in their roadmap.
-- As shown in the below structure, you will gain a complete idea of which topic to start with and the pre-requisites of every topic.
+- As shown in the structure, you will understand which topic to start with and what are it's prerequisites.
 
 
   
