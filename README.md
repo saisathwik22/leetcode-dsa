@@ -1,14 +1,13 @@
 ## Data Structures and Algorithms - Leetcode
 
-## [Neetcode]("https://neetcode.io/roadmap")
+- This repository comprises of the questions I have solved overtime in Leetcode.
+- Neetcode's 150 questions are of great help, because it contains Blind 75 problems and also 75 extra questions making it a go-to problem set for excelling at leetcode.
+- Below is the link given to Neetcode's amazing roadmap to kickstart your DSA journey in Leetcode, enhancing your problem solving skills.
+- Also refer to codestorywithMIK's github repo for some more amazing problems from Leetcode.
 
-![neetcode](https://github.com/user-attachments/assets/7c88a9f3-a131-41ad-8825-99e72101ed73)
+### [codeStorywithMIK Github Repository]("https://github.com/MAZHARMIK/Interview_DS_Algo/")
+### [Neetcode 150 Roadmap]("https://neetcode.io/roadmap")
 
-Neetcode is a very flawless resource curating amazing questions from leetcode with their video solutions.
-- Solutions available  in C++, Java, Python, JavaScript languages.
-- Neetcode consists of Leetcode's Blind 75 problem set with additional 75 questions curated from their end making it a problem set of 150 questions, consolidating them all in a structured order of solving.
-- They have a total of 500+ leetcode questions consolidated on their platform, including the 150 questions in their roadmap.
-- As shown in the structure, you will understand which topic to start with and what are it's prerequisites.
 
 
   
